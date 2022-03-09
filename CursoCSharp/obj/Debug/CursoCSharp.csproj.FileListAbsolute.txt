@@ -1,0 +1,7 @@
+C:\Users\maicon.pais.gmi\source\repos\CursoCSharp\CursoCSharp\bin\Debug\CursoCSharp.exe.config
+C:\Users\maicon.pais.gmi\source\repos\CursoCSharp\CursoCSharp\bin\Debug\CursoCSharp.exe
+C:\Users\maicon.pais.gmi\source\repos\CursoCSharp\CursoCSharp\bin\Debug\CursoCSharp.pdb
+C:\Users\maicon.pais.gmi\source\repos\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.csprojAssemblyReference.cache
+C:\Users\maicon.pais.gmi\source\repos\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\maicon.pais.gmi\source\repos\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.exe
+C:\Users\maicon.pais.gmi\source\repos\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.pdb
